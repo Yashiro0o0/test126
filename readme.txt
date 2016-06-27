@@ -3,4 +3,4 @@ Git is GPL.
 Git is free software.
 second
 my stupid boss still perfer svn.
-creating a new branch.
+creating a new branch is quick AMD simple.
